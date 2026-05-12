@@ -75,9 +75,11 @@
 1. Star this repo (Very important step, believe me).
 2. Deploy this project using deploy button - <br/> <br/>
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/KunwarVSuryavanshi/animanga-v2)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=notKvS/animanga-v2&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 3. So your frontend is deployed, now for the API - <br/> <br/>
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fconsumet%2Fapi.consumet.org)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=notKvS/animanga-v2&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 4. For DB, create an account on [supabase](https://supabase.com/), and then create a table for watchList using PostgreSQL or the UI.
 
